@@ -8,7 +8,7 @@ macOS 10.13 (High Sierra) or later
 iPod Classic, Nano, or Mini (iPod Touches are not supported)
 
 Download here:
-
+https://github.com/matthewyang204/iPod-Contact-Syncer/releases/download/1.0/Install.iPod.Contacts.Syncer.1.0.dmg
 
 To install:
 1. Download the disk image
