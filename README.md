@@ -15,10 +15,10 @@ To install:
 2. Mount it and drag the app into the alias of the Applications folder in the disk image. Your Mac may ask for your administrator password, enter it if prompted. The app will now be in the main Applications folder.
 
 To use:
-0. Make sure that your iPod's main volume (formatted to MacOS Extended) is called iPod HD. Also, make sure you have saved whatever stuff from the Downloads folder somewhere else on your Mac's drive, or else it will be moved to the trash. You can still recover these items from the trash.
-1. Connect the iPod to your Mac. Note: You can only sync one iPod at one time.
-2. Launch the app.
-3. Your Contacts have now been synced. Note: You will have to launch the app again if you update your Contacts.
+1. Make sure that your iPod's main volume (formatted to MacOS Extended) is called iPod HD. Also, make sure you have saved whatever stuff from the Downloads folder somewhere else on your Mac's drive, or else it will be moved to the trash. You can still recover these items from the trash.
+2. Connect the iPod to your Mac. Note: You can only sync one iPod at one time.
+3. Launch the app.
+4. Your Contacts have now been synced. Note: You will have to launch the app again if you update your Contacts.
 
 To update:
 1. Follow the installation steps above.
