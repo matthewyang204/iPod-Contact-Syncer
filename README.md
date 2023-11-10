@@ -17,7 +17,7 @@ To install:
 To use:
 1. Make sure that your iPod's main volume (formatted to MacOS Extended) is called iPod HD. Also, make sure you have saved whatever stuff from the Downloads folder somewhere else on your Mac's drive, or else it will be moved to the trash. You can still recover these items from the trash.
 2. Connect the iPod to your Mac. Note: You can only sync one iPod at one time.
-3. Launch the app.
+3. Launch the app. If it asks you permission to access files, Contacts, and a removable disk, allow it. By the way, the "removable disk" is just your iPod's disk.
 4. Your Contacts have now been synced. Note: You will have to launch the app again if you update your Contacts.
 
 To update:
